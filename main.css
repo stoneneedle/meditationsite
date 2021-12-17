@@ -51,3 +51,38 @@ ul.topmenu li a:hover {
   background-color: #FFF323;
   color: #222;
 }
+
+/* ################### Mobile ################# */
+
+/* Also from Brewer (2020). */
+
+@media screen and (max-width: 680px) {
+  ul.topmenu li:not(:nth-child(1)) {
+    display: none;
+  }
+
+  ul.topmenu li.dropdownIcon {
+    display: block;
+    float: right;
+  }
+
+  ul.topmenu.responsive li.dropdownIcon {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  ul.topmenu.responsive {
+    position: relative;
+  }
+
+  ul.topmenu.responsive li {
+    display: inline;
+    float: none;
+  }
+
+  ul.topmenu.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
