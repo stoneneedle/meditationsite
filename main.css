@@ -1,0 +1,53 @@
+/* ################### Defaults ################# */
+
+body {
+  background-color: #000;
+  color: #fff;
+  background-color: #fff;
+  color: #000;
+  line-height: 1;
+  margin: 0;
+}
+
+nav, header, footer {
+  display: block;
+}
+
+nav {
+  width: 100%;
+  margin: 0;
+}
+
+/* This menu was taken from Jason Brewer (2020) of Devslopes's Advanced HTML/CSS tutorial. */
+
+nav ul {
+  background-color: #F90716;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+ul.topmenu li {
+  list-style: none;
+  float: left;
+}
+
+ul.topmenu li.topmenu-right {
+  list-style: none;
+  float: right;
+}
+
+ul.topmenu li a {
+  display: block;
+  text-decoration: none;
+  min-height: 16px;
+  text-align: center;
+  padding: 14px;
+  text-transform: lowercase;
+  color: #eee;
+}
+
+ul.topmenu li a:hover {
+  background-color: #FFF323;
+  color: #222;
+}
