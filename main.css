@@ -55,16 +55,32 @@ ul.topmenu li a:hover {
 
 .yinyang {
   width: 100%;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
   background-image: url('./assets/yinyang_transparent_small.png');
-  min-height: 358px;
+  min-height: 398px;
   background-repeat: no-repeat;
   background-position: center;
-  padding: 20px;
   background-color: #ddd;
+}
+
+.site-advert {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  background-color: #444;
 }
 
 .article-text {
   color: #333;
+  padding: 35px;
+}
+
+.article-text-light {
+  color: #ddd;
+  padding: 35px;
 }
 
 
