@@ -82,6 +82,8 @@ ul.topmenu li a:hover {
   padding: 0px 35px 0 35px;
 }
 
+/* Inspiration/code method for mix-blend mode provided by DevTips (2020) */
+
 .article-text {
   color: #fff;
   mix-blend-mode: difference;
