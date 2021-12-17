@@ -7,6 +7,7 @@ body {
   color: #000;
   line-height: 1;
   margin: 0;
+  overflow-x: hidden;
 }
 
 nav, header, footer {
@@ -52,18 +53,20 @@ ul.topmenu li a:hover {
   color: #222;
 }
 
-main {
+.yinyang {
   width: 100%;
-  background-image: url('./assets/yinyang_transparent.png');
-  max-width: 1920px;
-  min-height: 878px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  background-image: url('./assets/yinyang_transparent_small.png');
+  min-height: 358px;
   background-repeat: no-repeat;
-
   background-position: center;
-  opacity: 0.1;
+  padding: 20px;
+  background-color: #ddd;
 }
+
+.article-text {
+  color: #333;
+}
+
 
 /* ################### Mobile ################# */
 
