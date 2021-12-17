@@ -54,28 +54,28 @@ ul.topmenu li a:hover {
   color: #222;
 }
 
-.yinyang {
+.main-home {
   width: 100%;
   margin: 0;
-  padding: 0;
+  padding: 0 25px 0 25px;
   display: inline-block;
   background-image: url('./assets/yinyang3small.png');
   min-height: 398px;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: 15% center;
   background-color: #ddd;
 }
 
 .site-advert {
   width: 100%;
   margin: 0;
-  padding: 0;
+  padding: 0 25px 0 25px;
   display: inline-block;
   background-color: #444;
   background-image: url('./assets/yinyang3small.png');
   min-height: 398px;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: 85% center;
 }
 
 .row {
