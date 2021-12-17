@@ -52,6 +52,19 @@ ul.topmenu li a:hover {
   color: #222;
 }
 
+main {
+  width: 100%;
+  background-image: url('./assets/yinyang_transparent.png');
+  max-width: 1920px;
+  min-height: 878px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  opacity: 0.1;
+}
+
 /* ################### Mobile ################# */
 
 /* Also from Brewer (2020). */
