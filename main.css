@@ -20,6 +20,14 @@ nav {
   margin: 0;
 }
 
+input {
+  width: 250px;
+}
+
+button {
+  width: 175px;
+}
+
 /* This menu was taken from Jason Brewer (2020) of Devslopes's Advanced HTML/CSS tutorial. */
 
 nav ul {
@@ -104,7 +112,7 @@ ul.topmenu li a:hover {
 
 /* ################### Mobile ################# */
 
-/* Also from Brewer (2020). */
+/* Also from Brewer (2020). Tablet/mid-size breakpoint. */
 
 @media screen and (max-width: 680px) {
   ul.topmenu li:not(:nth-child(1)) {
@@ -134,5 +142,18 @@ ul.topmenu li a:hover {
   ul.topmenu.responsive li a {
     display: block;
     text-align: left;
+  }
+
+}
+
+/* Mobile breakpoint. */
+
+@media screen and (max-width: 480px) {
+  input {
+    width: 100%;
+  }
+
+  button {
+    width: 80%;
   }
 }
