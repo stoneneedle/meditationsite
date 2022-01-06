@@ -9,7 +9,7 @@ This website is designed to sell meditation-related products online. It represen
 ### Wireframes
 
 [comment]: <> (This is a comment, it will not be included)
-[<img alt="alt_text" width="40px" src="./assets/wireframe1.png" />]
+[<img alt="alt_text" width="40px" src="https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true" />]
 
 ### References
 
