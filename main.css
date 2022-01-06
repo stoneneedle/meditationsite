@@ -69,7 +69,7 @@ ul.topmenu li a:hover {
   display: inline-block;
   background-image: url('./assets/yinyang3small.png');
   min-height: 398px;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-position: 15% center;
   background-color: #ddd;
 }
@@ -85,10 +85,10 @@ ul.topmenu li a:hover {
   margin: 0;
   padding: 0 25px 0 25px;
   display: inline-block;
-  background-color: #444;
+  background-color: #222;
   background-image: url('./assets/yinyang3small.png');
   min-height: 398px;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-position: 85% center;
 }
 
