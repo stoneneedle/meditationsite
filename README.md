@@ -15,13 +15,13 @@ This website is designed to sell meditation-related products online. It represen
 ### Wireframe 1 (Index)
 ![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
 ### Wireframe 2 (Register/Login)
-![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
-### Wireframe 1 (Store)
-![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
-### Wireframe 1 (About)
-![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
-### Wireframe 1 (Contact Us)
-![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe2.png?raw=true "Wireframe 1")
+### Wireframe 3 (Store)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe3.png?raw=true "Wireframe 1")
+### Wireframe 4 (About)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe4.png?raw=true "Wireframe 1")
+### Wireframe 5 (Contact Us)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe5.png?raw=true "Wireframe 1")
 
 ### References
 
