@@ -1,15 +1,26 @@
 # Project 1 -- Meditation Supplies Website
 
+## Intro
+
 This website is designed to sell meditation-related products online. It represents a very basic example of what a front-end interface could look like in HTML/CSS. Although I have been experimenting with JavaScript on my own for some time, our course has not yet begun covering JavaScript, and thus JavaScript is minimal and front-end only (strict mode).
 
 *Please note that all code/ideas taken from other sources is cited in APA format, with an in-text citation in the file and with a main references list here. Note that Hofstra QS tutorial videos are proprietary, and are not available at time of viewing.*
 
-### User Experiences
+## User Experiences
 
-### Wireframes
+## Wireframes
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (Wireframe images need to include the ?raw=true parameter if hosted locally.)
 
+### Wireframe 1 (Index)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
+### Wireframe 2 (Register/Login)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
+### Wireframe 1 (Store)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
+### Wireframe 1 (About)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
+### Wireframe 1 (Contact Us)
 ![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
 
 ### References
