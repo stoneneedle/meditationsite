@@ -8,7 +8,7 @@ This website is designed to sell meditation-related products online. It represen
 
 ### Wireframes
 
-![Home Wireframe](/assets/wireframe1.png "Home Wireframe")
+![Home Wireframe](/assets/wireframe1.png)
 
 ### References
 
