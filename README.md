@@ -10,7 +10,7 @@ This website is designed to sell meditation-related products online. It represen
 
 [comment]: <> (This is a comment, it will not be included)
 
-(https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true)
+![Wireframe 1](https://github.com/stoneneedle/meditationsite/blob/main/assets/wireframes/wireframe1.png?raw=true "Wireframe 1")
 
 ### References
 
