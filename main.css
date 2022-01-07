@@ -92,6 +92,15 @@ ul.topmenu li a:hover {
   background-position: 85% center;
 }
 
+footer {
+  background: #444;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #fff;
+}
+
 /* Code taken from Brewer (2020), similar row/column system to Bootstrap */
 
 .row {
