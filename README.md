@@ -1,8 +1,10 @@
-# Project 1 -- Meditation Supplies Website
+# Project 1 -- MedShop: Meditation Supplies Website
 
 ## Intro
 
-This website is designed to sell meditation-related products online. It represents a very basic example of what a front-end interface could look like in HTML/CSS. Although I have been experimenting with JavaScript on my own for some time, our course has not yet begun covering JavaScript, and thus JavaScript is minimal and front-end only (strict mode).
+MedShop is designed to sell meditation-related products online. It represents a very basic example of what a front-end interface could look like in HTML/CSS. Although I have been experimenting with JavaScript on my own for some time, our course has not yet begun covering JavaScript, and thus JavaScript is minimal and front-end only (strict mode).
+
+This design is intended to be fairly minimalist while still being usable as a brainstorm for a website shop layout, as well as an alternative to typical design patterns. Thus it is implemented as a pure HTML/CSS layout, and does not use Bootstrap or any standard design frameworks, since it is a learning and brainstorming tool only.
 
 *Please note that all code/ideas taken from other sources is cited in APA format, with an in-text citation in the file and with a main references list here. Note that Hofstra QS tutorial videos are proprietary, and are not available at time of viewing.*
 
