@@ -247,6 +247,10 @@ div.forsale-card p {
   font-size: 1.2em;
 }
 
+.social-media-items > a {
+  color: #fff;
+}
+
 .footer-links-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
