@@ -57,6 +57,40 @@ button {
   border-radius: 10px;
 }
 
+.main-banners-wrapper-2 {
+  display: grid;
+  grid-gap: 10px;
+  margin: 10px;
+  grid-template-columns: 1fr 1fr;
+}
+
+.pane-left-2 {
+  background-image: url(./assets/MeditationBanner2.png);
+  background-position: center;
+  background-size: cover;
+  min-height: 385px;
+  border-radius: 10px;
+}
+
+.pane-right-2 {
+  padding: 25px;
+  display: inline-block;
+  background-image: url('./assets/yinyang3small.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #ddd;
+  min-height: 385px;
+  /* border: 2px solid black; */
+  border-radius: 10px;
+}
+
+.banner-title {
+  color: #fff;
+  text-align: center;
+  font-size: 3em;
+  padding: 30px;
+}
+
 /* This menu was taken from Jason Brewer (2020) of Devslopes's Advanced HTML/CSS tutorial. */
 
 nav ul {
