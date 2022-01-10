@@ -247,6 +247,11 @@ div.forsale-card p {
 /* Also from Brewer (2020). Tablet/mid-size breakpoint. */
 
 @media screen and (max-width: 680px) {
+  .main-banners-wrapper-1, .main-banners-wrapper-2 {
+    display: flex;
+    flex-direction: column;
+  }
+  
   ul.topmenu li:not(:nth-child(1)) {
     display: none;
   }
@@ -281,6 +286,11 @@ div.forsale-card p {
 /* Mobile breakpoint. */
 
 @media screen and (max-width: 480px) {
+  .main-banners-wrapper-1, .main-banners-wrapper-2 {
+    display: flex;
+    flex-direction: column;
+  }
+
   input {
     width: 100%;
   }
