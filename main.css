@@ -157,8 +157,7 @@ ul.topmenu li a:hover {
 
 footer {
   background: #444;
-  bottom: 0;
-  left: 0;
+  padding: 10px;
   width: 100%;
   color: #fff;
 }
@@ -242,6 +241,12 @@ div.forsale-card p {
   color: #fff;
 }
 
+/* Footer Styling */
+
+.social-media-items {
+  font-size: 1.2em;
+}
+
 /* ################### Mobile ################# */
 
 /* Also from Brewer (2020). Tablet/mid-size breakpoint. */
@@ -251,7 +256,7 @@ div.forsale-card p {
     display: flex;
     flex-direction: column;
   }
-  
+
   ul.topmenu li:not(:nth-child(1)) {
     display: none;
   }
