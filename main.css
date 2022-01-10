@@ -247,6 +247,34 @@ div.forsale-card p {
   font-size: 1.2em;
 }
 
+.footer-links-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.footer-links-list {
+  list-style: none;
+  /* float: left; */
+}
+
+.footer-links-list-item {
+  padding-bottom: 15px;
+}
+
+.footer-links-list-item > a {
+  text-decoration: none;
+  color: #FF5;
+}
+
+.footer-links-list-item > a:hover {
+  text-decoration: underline;
+  color: #FF5403;
+}
+
+.copyright-info {
+  font-size: 0.8em;
+}
+
 /* ################### Mobile ################# */
 
 /* Also from Brewer (2020). Tablet/mid-size breakpoint. */
