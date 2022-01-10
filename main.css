@@ -28,6 +28,35 @@ button {
   width: 175px;
 }
 
+/* Banner code based upon https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout */
+
+.main-banners-wrapper-1 {
+  display: grid;
+  grid-gap: 10px;
+  margin: 10px;
+  grid-template-columns: 1fr 2fr;
+}
+
+.pane-left-1 {
+  padding: 25px;
+  display: inline-block;
+  background-image: url('./assets/yinyang3small.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #ddd;
+  /* border: 2px solid black; */
+  border-radius: 10px;
+  min-height: 420px;
+}
+
+.pane-right-1 {
+  background-image: url(./assets/MeditationBanner1.png);
+  background-position: center;
+  background-size: cover;
+  min-height: 420px;
+  border-radius: 10px;
+}
+
 /* This menu was taken from Jason Brewer (2020) of Devslopes's Advanced HTML/CSS tutorial. */
 
 nav ul {
