@@ -285,6 +285,11 @@ div.forsale-card p {
     flex-direction: column;
   }
 
+  .footer-links-container {
+    display: flex;
+    flex-direction: column;
+  }
+
   ul.topmenu li:not(:nth-child(1)) {
     display: none;
   }
@@ -320,6 +325,11 @@ div.forsale-card p {
 
 @media screen and (max-width: 480px) {
   .main-banners-wrapper-1, .main-banners-wrapper-2 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-links-container {
     display: flex;
     flex-direction: column;
   }
