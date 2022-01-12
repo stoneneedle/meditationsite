@@ -88,6 +88,14 @@ button {
   border-radius: 10px;
 }
 
+.pane-left-2-contact {
+  background-image: url(./assets/MeditationBanner5.png);
+  background-position: center;
+  background-size: cover;
+  min-height: 385px;
+  border-radius: 10px;
+}
+
 .pane-right-2 {
   padding: 25px;
   display: inline-block;
