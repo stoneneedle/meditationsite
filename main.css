@@ -57,6 +57,14 @@ button {
   border-radius: 10px;
 }
 
+.pane-right-1-reg {
+  background-image: url(./assets/MeditationBanner3.png);
+  background-position: center;
+  background-size: cover;
+  min-height: 420px;
+  border-radius: 10px;
+}
+
 .main-banners-wrapper-2 {
   display: grid;
   grid-gap: 10px;
