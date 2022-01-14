@@ -28,7 +28,7 @@ button {
   width: 175px;
 }
 
-/* Banner code based upon https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout */
+/* Banner code based upon MDN Web Docs (2022) */
 
 .main-banners-wrapper-1 {
   display: grid;
@@ -58,7 +58,6 @@ button {
   background-repeat: no-repeat;
   background-position: center;
   background-color: #ddd;
-  /* border: 2px solid black; */
   border-radius: 10px;
   min-height: 420px;
 }
@@ -169,6 +168,8 @@ ul.topmenu li a:hover {
   background-color: #FFF323;
   color: #222;
 }
+
+/* Custom styling classes for main & store divs */
 
 .main-home {
   width: 100%;

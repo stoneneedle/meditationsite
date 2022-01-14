@@ -36,3 +36,5 @@ As a web developer, I want to design a website that showcases underutilized desi
 Brewer, Jason. (2020). "Advanced CSS: Building and styling website." Retrieved December 17, 2021, from https://player.quickstart.com/iCP4/CoursePlayer.aspx?SESSION=9e11eac4-7f43-4113-89e9-0ba697dedc8a&ts=1639755484613.
 
 DevTips. (March 31, 2020). "CSS Text color difference based on background." Retrieved December 17, 2021, from https://daily-dev-tips.com/posts/css-text-color-difference-based-on-background/. 
+
+MDN Web Docs. (2022). "Basic Concepts of grid layout - CSS: Cascading Style Sheets | MDN." Retrieved January 13, 2022, from https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout.
