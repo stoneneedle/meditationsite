@@ -44,10 +44,10 @@ button {
 }
 
 .main-banner {
-  background-image: url(./assets/MeditationBannerMainLarge2.png);
+  background-image: url(./assets/MeditationBannerMainLarge2thin.png);
   background-position: center;
   background-size: cover;
-  min-height: 671px;
+  min-height: 600px;
   border-radius: 10px;
 }
 
