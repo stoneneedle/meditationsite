@@ -37,6 +37,20 @@ button {
   grid-template-columns: 1fr 2fr;
 }
 
+.main-banner-wrapper {
+  display: grid;
+  grid-gap: 10px;
+  margin: 10px;
+}
+
+.main-banner {
+  background-image: url(./assets/MeditationBannerMainLarge.png);
+  background-position: center;
+  background-size: cover;
+  min-height: 671px;
+  border-radius: 10px;
+}
+
 .pane-left-1 {
   padding: 25px;
   display: inline-block;
@@ -111,6 +125,13 @@ button {
 .banner-title {
   color: #fff;
   text-align: center;
+  font-size: 3em;
+  padding: 30px;
+}
+
+.banner-title-left {
+  color: #fff;
+  text-align: left;
   font-size: 3em;
   padding: 30px;
 }
