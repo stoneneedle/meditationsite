@@ -44,7 +44,7 @@ button {
 }
 
 .main-banner {
-  background-image: url(./assets/MeditationBannerMainLarge.png);
+  background-image: url(./assets/MeditationBannerMainLarge2.png);
   background-position: center;
   background-size: cover;
   min-height: 671px;
@@ -129,11 +129,11 @@ button {
   padding: 30px;
 }
 
-.banner-title-left {
+.banner-title-right {
   color: #fff;
-  text-align: left;
+  text-align: right;
   font-size: 3em;
-  padding: 30px;
+  padding-right: 20px;
 }
 
 /* This menu was taken from Jason Brewer (2020) of Devslopes's Advanced HTML/CSS tutorial. */
@@ -329,7 +329,7 @@ div.forsale-card p {
 /* Also from Brewer (2020). Tablet/mid-size breakpoint. */
 
 @media screen and (max-width: 680px) {
-  .main-banners-wrapper-1, .main-banners-wrapper-2 {
+  .main-banner-wrapper, .main-banners-wrapper-1, .main-banners-wrapper-2 {
     display: flex;
     flex-direction: column;
   }
