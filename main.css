@@ -117,7 +117,6 @@ button {
   background-position: center;
   background-color: #ddd;
   min-height: 385px;
-  /* border: 2px solid black; */
   border-radius: 10px;
 }
 
@@ -272,7 +271,6 @@ div.forsale-card p {
 
 .footer-links-list {
   list-style: none;
-  /* float: left; */
 }
 
 .footer-links-list-item {
